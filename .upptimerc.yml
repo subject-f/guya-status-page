@@ -4,7 +4,7 @@ repo: guya-status-page # The name of this repository
 
 sites:
   - name: Guya.moe
-    url: https://guya.moe/
+    url: https://baka.guya.moe/
     icon: https://raw.githubusercontent.com/appu1232/guyamoe/develop/static_global/logo.png
     expectedStatusCodes:
       - 200
