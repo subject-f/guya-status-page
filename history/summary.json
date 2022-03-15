@@ -4,18 +4,19 @@
     "url": "https://baka.guya.moe/",
     "icon": "https://raw.githubusercontent.com/appu1232/guyamoe/develop/static_global/logo.png",
     "slug": "guya-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 280,
-    "timeDay": 260,
-    "timeWeek": 217,
-    "timeMonth": 218,
+    "timeDay": 271,
+    "timeWeek": 218,
+    "timeMonth": 219,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2022-03-15": 0,
       "2021-12-29": 132,
       "2021-12-27": 73
     }
