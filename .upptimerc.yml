@@ -9,6 +9,12 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 8000
+  - name: Guya.moe Proxied
+    url: https://ice.guya.moe/
+    icon: https://raw.githubusercontent.com/appu1232/guyamoe/develop/static_global/logo.png
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
