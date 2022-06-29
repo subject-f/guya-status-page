@@ -1,7 +1,7 @@
 url: https://ice.guya.moe/
-status: down
-code: 403
-responseTime: 240
-lastUpdated: 2022-06-29T07:31:45.461Z
+status: degraded
+code: 200
+responseTime: 13030
+lastUpdated: 2022-06-29T07:44:33.019Z
 startTime: Sat Apr 09 2022 09:28:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
