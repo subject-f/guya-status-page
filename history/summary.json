@@ -13,7 +13,7 @@
     "time": 404,
     "timeDay": 476,
     "timeWeek": 468,
-    "timeMonth": 481,
+    "timeMonth": 482,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2022-08-08": 46,
@@ -39,10 +39,10 @@
     "time": 16590,
     "timeDay": 16846,
     "timeWeek": 17047,
-    "timeMonth": 16968,
+    "timeMonth": 16961,
     "timeYear": 16590,
     "dailyMinutesDown": {
-      "2022-10-13": 810,
+      "2022-10-13": 846,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
