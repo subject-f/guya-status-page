@@ -13,7 +13,7 @@
     "time": 500,
     "timeDay": 443,
     "timeWeek": 511,
-    "timeMonth": 478,
+    "timeMonth": 479,
     "timeYear": 498,
     "dailyMinutesDown": {}
   },
@@ -31,10 +31,10 @@
     "time": 12923,
     "timeDay": 12938,
     "timeWeek": 12973,
-    "timeMonth": 12930,
+    "timeMonth": 12931,
     "timeYear": 12925,
     "dailyMinutesDown": {
-      "2024-02-03": 87,
+      "2024-02-03": 117,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
