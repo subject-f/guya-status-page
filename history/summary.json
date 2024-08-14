@@ -22,7 +22,7 @@
     "url": "https://ice.guya.moe/",
     "icon": "https://raw.githubusercontent.com/appu1232/guyamoe/develop/static_global/logo.png",
     "slug": "guya-moe-proxied",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.04%",
     "uptimeDay": "2.82%",
     "uptimeWeek": "2.96%",
@@ -34,7 +34,7 @@
     "timeMonth": 12373,
     "timeYear": 12884,
     "dailyMinutesDown": {
-      "2024-08-14": 920,
+      "2024-08-14": 947,
       "2024-08-13": 1334,
       "2024-08-12": 1421,
       "2024-08-11": 1406,
