@@ -22,17 +22,17 @@
     "url": "https://ice.guya.moe/",
     "icon": "https://raw.githubusercontent.com/appu1232/guyamoe/develop/static_global/logo.png",
     "slug": "guya-moe-proxied",
-    "status": "up",
+    "status": "down",
     "uptime": "94.96%",
-    "uptimeDay": "38.10%",
-    "uptimeWeek": "5.88%",
-    "uptimeMonth": "7.78%",
-    "uptimeYear": "87.46%",
-    "time": 12812,
-    "timeDay": 8905,
-    "timeWeek": 12391,
-    "timeMonth": 12575,
-    "timeYear": 12810,
+    "uptimeDay": "38.40%",
+    "uptimeWeek": "5.92%",
+    "uptimeMonth": "7.79%",
+    "uptimeYear": "87.47%",
+    "time": 12810,
+    "timeDay": 8736,
+    "timeWeek": 12323,
+    "timeMonth": 12559,
+    "timeYear": 12808,
     "dailyMinutesDown": {
       "2024-10-03": 520,
       "2024-10-02": 1256,
@@ -82,7 +82,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1022,
-      "2024-08-16": 851
+      "2024-08-16": 819
     }
   }
 ]
