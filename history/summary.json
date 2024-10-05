@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 484,
-    "timeDay": 442,
-    "timeWeek": 475,
+    "timeDay": 416,
+    "timeWeek": 474,
     "timeMonth": 484,
     "timeYear": 483,
     "dailyMinutesDown": {}
@@ -24,17 +24,17 @@
     "slug": "guya-moe-proxied",
     "status": "up",
     "uptime": "96.21%",
-    "uptimeDay": "27.06%",
-    "uptimeWeek": "13.70%",
+    "uptimeDay": "27.14%",
+    "uptimeWeek": "13.71%",
     "uptimeMonth": "9.58%",
     "uptimeYear": "90.55%",
-    "time": 12767,
-    "timeDay": 8812,
-    "timeWeek": 10828,
-    "timeMonth": 12030,
+    "time": 12766,
+    "timeDay": 9048,
+    "timeWeek": 10803,
+    "timeMonth": 12010,
     "timeYear": 12763,
     "dailyMinutesDown": {
-      "2024-10-05": 74,
+      "2024-10-05": 136,
       "2024-10-04": 978,
       "2024-10-03": 747,
       "2024-10-02": 1256,
@@ -72,7 +72,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1151,
-      "2024-08-28": 152
+      "2024-08-28": 82
     }
   }
 ]
