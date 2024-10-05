@@ -24,7 +24,7 @@
     "slug": "guya-moe-proxied",
     "status": "degraded",
     "uptime": "96.21%",
-    "uptimeDay": "29.05%",
+    "uptimeDay": "28.70%",
     "uptimeWeek": "14.32%",
     "uptimeMonth": "9.72%",
     "uptimeYear": "90.55%",
@@ -34,7 +34,7 @@
     "timeMonth": 11967,
     "timeYear": 12758,
     "dailyMinutesDown": {
-      "2024-10-05": 226,
+      "2024-10-05": 231,
       "2024-10-04": 978,
       "2024-10-03": 747,
       "2024-10-02": 1256,
