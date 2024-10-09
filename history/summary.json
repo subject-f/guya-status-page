@@ -25,7 +25,7 @@
     "status": "degraded",
     "uptime": "99.59%",
     "uptimeDay": "40.61%",
-    "uptimeWeek": "45.95%",
+    "uptimeWeek": "45.94%",
     "uptimeMonth": "87.56%",
     "uptimeYear": "98.96%",
     "time": 12637,
@@ -34,7 +34,7 @@
     "timeMonth": 10828,
     "timeYear": 12632,
     "dailyMinutesDown": {
-      "2024-10-09": 383,
+      "2024-10-09": 384,
       "2024-10-08": 846,
       "2024-10-07": 837,
       "2024-10-06": 938,
