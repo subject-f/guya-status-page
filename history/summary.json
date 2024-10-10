@@ -24,23 +24,23 @@
     "slug": "guya-moe-proxied",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "29.57%",
-    "uptimeWeek": "41.58%",
-    "uptimeMonth": "86.56%",
-    "uptimeYear": "98.88%",
+    "uptimeDay": "30.33%",
+    "uptimeWeek": "41.14%",
+    "uptimeMonth": "86.46%",
+    "uptimeYear": "98.87%",
     "time": 12607,
     "timeDay": 8975,
     "timeWeek": 8532,
     "timeMonth": 10776,
     "timeYear": 12603,
     "dailyMinutesDown": {
-      "2024-10-10": 778,
+      "2024-10-10": 773,
       "2024-10-09": 864,
       "2024-10-08": 846,
       "2024-10-07": 837,
       "2024-10-06": 938,
       "2024-10-05": 941,
-      "2024-10-04": 687
+      "2024-10-04": 736
     }
   }
 ]
