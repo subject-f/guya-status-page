@@ -23,7 +23,7 @@
     "icon": "https://raw.githubusercontent.com/appu1232/guyamoe/develop/static_global/logo.png",
     "slug": "guya-moe-proxied",
     "status": "degraded",
-    "uptime": "94.82%",
+    "uptime": "94.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 10182,
     "timeYear": 12251,
     "dailyMinutesDown": {
-      "2024-11-26": 189,
+      "2024-11-26": 226,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
