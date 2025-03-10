@@ -1,7 +1,7 @@
 url: https://ice.guya.moe/
-status: down
-code: 502
-responseTime: 638
-lastUpdated: 2025-03-10T16:29:36.138Z
+status: degraded
+code: 200
+responseTime: 12066
+lastUpdated: 2025-03-10T16:33:48.438Z
 startTime: 2022-04-09T09:28:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
