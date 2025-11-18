@@ -4,19 +4,19 @@
     "url": "https://baka.guya.moe/",
     "icon": "https://raw.githubusercontent.com/appu1232/guyamoe/develop/static_global/logo.png",
     "slug": "guya-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "94.27%",
+    "uptimeDay": "94.23%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 477,
-    "timeDay": 535,
-    "timeWeek": 490,
-    "timeMonth": 516,
+    "timeDay": 531,
+    "timeWeek": 492,
+    "timeMonth": 515,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2025-11-18": 83
+      "2025-11-18": 84
     }
   },
   {
@@ -31,12 +31,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 11478,
-    "timeDay": 8821,
-    "timeWeek": 9467,
-    "timeMonth": 10015,
+    "timeDay": 8822,
+    "timeWeek": 9491,
+    "timeMonth": 10019,
     "timeYear": 11508,
     "dailyMinutesDown": {
-      "2025-11-18": 778,
+      "2025-11-18": 781,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
