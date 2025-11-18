@@ -6,17 +6,17 @@
     "slug": "guya-moe",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "94.23%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 477,
     "timeDay": 531,
     "timeWeek": 492,
-    "timeMonth": 515,
+    "timeMonth": 516,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2025-11-18": 84
+      "2025-11-18": 87
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 10019,
     "timeYear": 11508,
     "dailyMinutesDown": {
-      "2025-11-18": 781,
+      "2025-11-18": 785,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
