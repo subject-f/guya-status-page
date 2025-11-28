@@ -11,8 +11,8 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.96%",
     "time": 478,
-    "timeDay": 524,
-    "timeWeek": 465,
+    "timeDay": 537,
+    "timeWeek": 462,
     "timeMonth": 480,
     "timeYear": 479,
     "dailyMinutesDown": {
@@ -25,18 +25,19 @@
     "icon": "https://raw.githubusercontent.com/appu1232/guyamoe/develop/static_global/logo.png",
     "slug": "guya-moe-proxied",
     "status": "degraded",
-    "uptime": "68.64%",
+    "uptime": "68.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 11427,
-    "timeDay": 9904,
-    "timeWeek": 9552,
-    "timeMonth": 9769,
+    "timeDay": 9641,
+    "timeWeek": 9551,
+    "timeMonth": 9765,
     "timeYear": 11463,
     "dailyMinutesDown": {
-      "2025-11-27": 1414,
+      "2025-11-28": 136,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -399,8 +400,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   }
 ]
