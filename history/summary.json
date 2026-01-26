@@ -24,7 +24,7 @@
     "url": "https://ice.guya.moe/",
     "icon": "https://raw.githubusercontent.com/appu1232/guyamoe/develop/static_global/logo.png",
     "slug": "guya-moe-proxied",
-    "status": "degraded",
+    "status": "down",
     "uptime": "65.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -36,7 +36,7 @@
     "timeMonth": 9366,
     "timeYear": 11112,
     "dailyMinutesDown": {
-      "2026-01-26": 1181,
+      "2026-01-26": 1199,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
