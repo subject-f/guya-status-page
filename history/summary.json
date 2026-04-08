@@ -13,7 +13,7 @@
     "time": 493,
     "timeDay": 441,
     "timeWeek": 516,
-    "timeMonth": 477,
+    "timeMonth": 476,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2026-02-13": 56,
@@ -35,10 +35,10 @@
     "time": 10789,
     "timeDay": 11595,
     "timeWeek": 10749,
-    "timeMonth": 10412,
+    "timeMonth": 10414,
     "timeYear": 10784,
     "dailyMinutesDown": {
-      "2026-04-08": 687,
+      "2026-04-08": 726,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
